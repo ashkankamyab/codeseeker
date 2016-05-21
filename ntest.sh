@@ -1,9 +1,7 @@
 #!/bin/bash
 
-#This script wroten duo to performe cehecking availability of HOST through a Private Network
+#This script wroten due to performe cehecking availability of HOST through a Private Network
 #You may want to modify some line of this script  depends on your Demands
-#There is Only one and only rule upon this copule of Lines
-#Modify and Redistribute it but just place the name of creator on it and there is no ligally interpration through this
 #Powerd by: ashkan.kamyab@gmail.com
 #GOOD LUCK
 ME=`whoami`
