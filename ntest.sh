@@ -14,7 +14,7 @@ echo "This Result has been made by NTestv0.9Beta powered by www.isoair.ir" >> /h
 echo "Full log-files are available in NTEST Directory on $ME's Desktop"
 echo " "
 echo " "
-echo "Powered by ashkan.kamyab@gmail.com"
+echo "Powered by me@ashkankamyab.de"
 echo " "
 sleep 0.6
 tail -n 4 /home/$ME/Desktop/NTEST/$1_$NOW
